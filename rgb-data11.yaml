@@ -1,0 +1,9 @@
+# train and val data as 1) directory: path/images/
+train: D:\UUULi\YOLOv11-QUWU\YOLOv11-QUWU\dataset\images\infrared\train  # 7601 images
+val:   D:\UUULi\YOLOv11-QUWU\YOLOv11-QUWU\dataset\images\infrared\val # 2257 images
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'person', ]

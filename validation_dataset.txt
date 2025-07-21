@@ -1,0 +1,2 @@
+Validation Dataset Path:
+D:\UUULi\YOLOv11-QUWU\YOLOv11-QUWU\data.yaml
